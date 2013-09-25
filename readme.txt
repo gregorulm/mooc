@@ -19,4 +19,6 @@ Coursera: Linear Algebra through Computer Science Applications
 Coursera: Games without Chance: Combinatorial Game Theory
 
 Other:
-Coursera: Introduction to Irrational Behavior (Behavioral Econ.)
+Coursera: Introduction to Irrational Behavior (Behavioral Economics)
+Coursera: Know Thyself
+Coursera: The Ancient Greeks
