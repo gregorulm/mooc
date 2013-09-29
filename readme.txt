@@ -1,5 +1,5 @@
 %% Gregor Ulm
-%% Last Update: 2013-09-18
+%% Last Update: 2013-09-29
 
 This directory contains some of the certificates I've earned through online courses.
 
@@ -12,6 +12,7 @@ Coursera: Algorithms: Design and Analysis, Part I
 
 Information Technology:
 Coursera: Internet History, Technology, and Security
+UMass:	  Building a Basic Website
 
 Mathematics:
 Coursera: Introduction to Mathematical Thinking
