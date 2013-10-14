@@ -1,7 +1,8 @@
 %% Gregor Ulm
-%% Last Update: 2013-10-06
+%% Last Update: 2013-10-12
 
-This directory contains some of the certificates I've earned through online courses.
+This is a collection of certificates I've earned in MOOCs.
+
 
 Computer Science:
 Udacity:    Introduction to Computer Science: Building a Search Engine
@@ -20,7 +21,13 @@ Coursera:   Introduction to Mathematical Thinking
 Coursera:   Linear Algebra through Computer Science Applications
 Coursera:   Games without Chance: Combinatorial Game Theory
 
+Philosophy:
+Coursera:   Think Again: How to Reason and Argue
+Coursera:   Know Thyself
+
 Other:
 Coursera:   Introduction to Irrational Behavior (Behavioral Economics)
-Coursera:   Know Thyself
 Coursera:   The Ancient Greeks
+Coursera:   History of Rock, Part I
+Coursera:   History of Rock, Part II
+Coursera:   Social Epidemiology
