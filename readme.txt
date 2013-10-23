@@ -1,5 +1,5 @@
 %% Gregor Ulm
-%% Last Update: 2013-10-12
+%% Last Update: 2013-10-23
 
 This is a collection of certificates I've earned in MOOCs.
 
@@ -15,6 +15,7 @@ Information Technology:
 Coursera:   Internet History, Technology, and Security
 UMass:	    Building a Basic Website
 Open2Study: Concepts in Games Development
+Waikato:    Data Mining with Weka
 
 Mathematics:
 Coursera:   Introduction to Mathematical Thinking
