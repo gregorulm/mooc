@@ -1,5 +1,5 @@
 %% Gregor Ulm
-%% Last Update: 2013-10-30
+%% Last Update: 2013-12-18
 
 This is a collection of certificates I've earned in MOOCs.
 
@@ -10,6 +10,8 @@ Coursera:   Introduction to Interactive Programming in Python
 Coursera:   Introduction to Systematic Program Design, Part I
 Udacity:    Algorithms: Crunching Social Networks
 Coursera:   Algorithms: Design and Analysis, Part I
+Udacity:    Software Testing
+Udacity:    Introduction to Theoretical Computer Science
 
 Information Technology:
 Coursera:   Internet History, Technology, and Security
