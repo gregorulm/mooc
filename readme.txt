@@ -1,5 +1,5 @@
 %% Gregor Ulm
-%% Last Update: 2014-08-13
+%% Last Update: 2014-09-20
 
 This is a collection of certificates I've earned in MOOCs.
 
@@ -37,3 +37,4 @@ Coursera:   The Ancient Greeks
 Coursera:   History of Rock, Part I
 Coursera:   History of Rock, Part II
 Coursera:   Social Epidemiology
+Coursera:   Managing Your Time, Money, and Career: MBA Insights for Undergraduates
