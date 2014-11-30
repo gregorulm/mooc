@@ -1,8 +1,7 @@
 %% Gregor Ulm
-%% Last Update: 2014-09-20
+%% Last Update: 2014-11-05
 
 This is a collection of certificates I've earned in MOOCs.
-
 
 Computer Science:
 Udacity:    Introduction to Computer Science: Building a Search Engine
@@ -14,12 +13,15 @@ Coursera:   Algorithms: Design and Analysis, Part I
 Udacity:    Software Testing
 Udacity:    Introduction to Theoretical Computer Science
 
-Information Technology:
+Applied IT:
+EdX:        Introduction to Linux
 Coursera:   Internet History, Technology, and Security
 UMass:	    Building a Basic Website
 Open2Study: Concepts in Games Development
-Waikato:    Data Mining with Weka
 Coursera:   Networked Life
+
+Data Science:
+Waikato:    Data Mining with Weka
 Coursera:   The Data Scientist’s Toolbox
 
 Mathematics:
