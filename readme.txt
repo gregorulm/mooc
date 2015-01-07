@@ -3,7 +3,7 @@
 
 This is a collection of certificates I've earned in MOOCs.
 
-Total: 29
+Total: 30
 
 Computer Science (8):
 Udacity:    Introduction to Computer Science: Building a Search Engine
@@ -15,17 +15,20 @@ Coursera:   Algorithms: Design and Analysis, Part I
 edX:        Introduction to Functional Programming	 
 Udacity:    Introduction to Theoretical Computer Science
 
-Computer Science, applied (6):
+Computer Science, applied (5):
 edX:        Introduction to Linux
 Coursera:   Internet History, Technology, and Security
 UMass:	    Building a Basic Website
-Open2Study: Concepts in Games Development
 Coursera:   Networked Life
 Udacity:    Software Testing
 
 Data Science/Machine Learning (2):
 Waikato:    Data Mining with Weka
 Coursera:   The Data Scientist’s Toolbox
+
+Interaction Design/Game Development (2):
+Open2Study: Concepts in Games Development
+edX:        Introduction to Game Design
 
 Mathematics (3):
 Coursera:   Introduction to Mathematical Thinking
