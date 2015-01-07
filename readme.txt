@@ -1,18 +1,21 @@
 %% Gregor Ulm
-%% Last Update: 2015-01-01
+%% Last Update: 2015-01-07
 
 This is a collection of certificates I've earned in MOOCs.
 
-Computer Science:
+Total: 29
+
+Computer Science (8):
 Udacity:    Introduction to Computer Science: Building a Search Engine
 Coursera:   Introduction to Interactive Programming in Python
 Coursera:   Principles of Computing
 Coursera:   Introduction to Systematic Program Design, Part I
 Udacity:    Algorithms: Crunching Social Networks
 Coursera:   Algorithms: Design and Analysis, Part I
+edX:        Introduction to Functional Programming	 
 Udacity:    Introduction to Theoretical Computer Science
 
-Computer Science (applied):
+Computer Science, applied (6):
 edX:        Introduction to Linux
 Coursera:   Internet History, Technology, and Security
 UMass:	    Building a Basic Website
@@ -20,34 +23,35 @@ Open2Study: Concepts in Games Development
 Coursera:   Networked Life
 Udacity:    Software Testing
 
-Data Science:
+Data Science/Machine Learning (2):
 Waikato:    Data Mining with Weka
 Coursera:   The Data Scientist’s Toolbox
 
-Mathematics:
+Mathematics (3):
 Coursera:   Introduction to Mathematical Thinking
 Coursera:   Linear Algebra through Computer Science Applications
 Coursera:   Games without Chance: Combinatorial Game Theory
 
-Philosophy:
+Philosophy (2):
 Coursera:   Think Again: How to Reason and Argue
 Coursera:   Know Thyself
 
-Psychology:
+Psychology (2):
 Coursera:   Introduction to Irrational Behavior (Behavioral Economics)
+Coursera:   Advertising and Society
 
-Business and Management:
+Business and Management (1):
 Coursera:   Managing Your Time, Money, and Career: MBA Insights for Undergraduates
 
-History:
+History (1):
 Coursera:   The Ancient Greeks
 
-Public Health:
+Public Health (1):
 Coursera:   Social Epidemiology
 
-Music:
+Music (2):
 Coursera:   History of Rock, Part I
 Coursera:   History of Rock, Part II
 
-Literature:
-edX:	    A Christmas Carol" by Dickens: BerkeleyX Book Club
+Literature (1):
+edX:	    A Christmas Carol by Dickens: BerkeleyX Book Club
