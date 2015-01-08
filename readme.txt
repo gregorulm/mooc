@@ -1,9 +1,9 @@
 %% Gregor Ulm
-%% Last Update: 2015-01-07
+%% Last Update: 2015-01-08
 
 This is a collection of certificates I've earned in MOOCs.
 
-Total: 30
+Total: 31
 
 Computer Science (8):
 Udacity:    Introduction to Computer Science: Building a Search Engine
@@ -22,9 +22,10 @@ UMass:	    Building a Basic Website
 Coursera:   Networked Life
 Udacity:    Software Testing
 
-Data Science/Machine Learning (2):
+Data Science, Machine Learning (3):
 Waikato:    Data Mining with Weka
 Coursera:   The Data Scientist’s Toolbox
+Coursera:   R Programming
 
 Interaction Design/Game Development (2):
 Open2Study: Concepts in Games Development
@@ -49,7 +50,7 @@ Coursera:   Managing Your Time, Money, and Career: MBA Insights for Undergraduat
 History (1):
 Coursera:   The Ancient Greeks
 
-Public Health (1):
+Nutrition, Health, Public Health (1):
 Coursera:   Social Epidemiology
 
 Music (2):
