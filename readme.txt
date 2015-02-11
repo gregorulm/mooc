@@ -36,17 +36,17 @@ Coursera:   Introduction to Mathematical Thinking
 Coursera:   Linear Algebra through Computer Science Applications
 Coursera:   Games without Chance: Combinatorial Game Theory
 
-Philosophy (2):
-Coursera:   Think Again: How to Reason and Argue
-Coursera:   Know Thyself
+Business, Management, Entrepreneurship (2):
+Coursera:   Managing Your Time, Money, and Career: MBA Insights for Undergraduates
+Coursera:   Organizational Analysis
 
 Psychology (2):
 Coursera:   Introduction to Irrational Behavior (Behavioral Economics)
 Coursera:   Advertising and Society
 
-Business, Management, Entrepreneurship (2):
-Coursera:   Managing Your Time, Money, and Career: MBA Insights for Undergraduates
-Coursera:   Organizational Analysis
+Philosophy (2):
+Coursera:   Think Again: How to Reason and Argue
+Coursera:   Know Thyself
 
 History (1):
 Coursera:   The Ancient Greeks
