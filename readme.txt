@@ -1,9 +1,9 @@
 %% Gregor Ulm
-%% Last Update: 2015-02-08
+%% Last Update: 2015-02-15
 
 This is a collection of certificates I've earned in MOOCs.
 
-Total: 32
+Total: 34
 
 Computer Science (8):
 Udacity:    Introduction to Computer Science: Building a Search Engine
@@ -40,9 +40,10 @@ Business, Management, Entrepreneurship (2):
 Coursera:   Managing Your Time, Money, and Career: MBA Insights for Undergraduates
 Coursera:   Organizational Analysis
 
-Psychology (2):
+Psychology (3):
 Coursera:   Introduction to Irrational Behavior (Behavioral Economics)
 Coursera:   Advertising and Society
+edX:	    The Science of Happiness
 
 Philosophy (2):
 Coursera:   Think Again: How to Reason and Argue
@@ -58,5 +59,6 @@ Music (2):
 Coursera:   History of Rock, Part I
 Coursera:   History of Rock, Part II
 
-Literature (1):
+Literature (2):
 edX:	    A Christmas Carol by Dickens: BerkeleyX Book Club
+edX:        Poetry in America: Whitman
