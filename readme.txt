@@ -1,9 +1,9 @@
 %% Gregor Ulm
-%% Last Update: 2015-03-23
+%% Last Update: 2015-06-14
 
 This is a collection of certificates I've earned in MOOCs.
 
-Total: 37
+Total: 39
 
 Computer Science (9):
 edX:        Introduction to Computer Science and Programming Using Python
@@ -37,10 +37,11 @@ Coursera:   Introduction to Mathematical Thinking
 Coursera:   Linear Algebra through Computer Science Applications
 Coursera:   Games without Chance: Combinatorial Game Theory
 
-Business, Management, Entrepreneurship (3):
+Business, Management, Entrepreneurship (4):
 Coursera:   Managing Your Time, Money, and Career: MBA Insights for Undergraduates
 Coursera:   Organizational Analysis
 edX:        U.Lab: Transforming Business, Society, and Self
+edX:        Entrepreneurship 101: Who is your customer?
 
 Psychology (3):
 Coursera:   Introduction to Irrational Behavior (Behavioral Economics)
@@ -54,9 +55,10 @@ Coursera:   Know Thyself
 History (1):
 Coursera:   The Ancient Greeks
 
-Nutrition, Health, Public Health (2):
+Nutrition, Health, Public Health (3):
 Coursera:   Social Epidemiology
 edX:        Introduction to Nutrition - Food For Health
+edX:	    The Body Matters
 
 Music (2):
 Coursera:   History of Rock, Part I
