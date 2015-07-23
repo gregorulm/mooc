@@ -1,16 +1,17 @@
 %% Gregor Ulm
-%% Last Update: 2015-06-14
+%% Last Update: 2015-07-23
 
 This is a collection of certificates I've earned in MOOCs.
 
-Total: 39
+Total: 41
 
-Computer Science (9):
+Computer Science (10):
 edX:        Introduction to Computer Science and Programming Using Python
 Udacity:    Introduction to Computer Science: Building a Search Engine
 Coursera:   Introduction to Interactive Programming in Python
 Coursera:   Principles of Computing
 Coursera:   Introduction to Systematic Program Design, Part I
+edX:        Systematic Program Design - Part 1: The Core Method
 Udacity:    Algorithms: Crunching Social Networks
 Coursera:   Algorithms: Design and Analysis, Part I
 edX:        Introduction to Functional Programming	 
@@ -48,9 +49,10 @@ Coursera:   Introduction to Irrational Behavior (Behavioral Economics)
 Coursera:   Advertising and Society
 edX:	    The Science of Happiness
 
-Philosophy (2):
+Philosophy (3):
 Coursera:   Think Again: How to Reason and Argue
 Coursera:   Know Thyself
+edX:        Introduction to Bioethics
 
 History (1):
 Coursera:   The Ancient Greeks
