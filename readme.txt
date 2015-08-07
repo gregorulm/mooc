@@ -3,7 +3,7 @@
 
 This is a collection of certificates I've earned in MOOCs.
 
-Total: 41
+Total: 42
 
 Computer Science (10):
 edX:        Introduction to Computer Science and Programming Using Python
@@ -17,12 +17,13 @@ Coursera:   Algorithms: Design and Analysis, Part I
 edX:        Introduction to Functional Programming	 
 Udacity:    Introduction to Theoretical Computer Science
 
-Computer Science, applied (5):
+Computer Science, applied (6):
 edX:        Introduction to Linux
 Coursera:   Internet History, Technology, and Security
 UMass:	    Building a Basic Website
 Coursera:   Networked Life
 Udacity:    Software Testing
+edX:        Introduction to Cloud Computing
 
 Data Science, Machine Learning (3):
 Waikato:    Data Mining with Weka
